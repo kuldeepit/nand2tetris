@@ -15,3 +15,11 @@
 ![Xor](https://github.com/kuldeepit/nand2tetris/assets/72602801/7d57b9ec-41c3-4c08-8274-c75ad7bf6ef4)
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/9c4fddb2-8ec9-41cd-9847-d86b52e4cca9)
 
+## working of MUX
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/46182c95-0f5e-4127-aae5-1f0604514b25)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/1cf5c7a8-c721-4d2b-87e6-edc1c6bc9fa3)
+
+## working of DMUX
+![DMux](https://github.com/kuldeepit/nand2tetris/assets/72602801/d44c3a5a-18a5-4e8a-af1f-3b2952b400b9)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/8af6dcaa-b6c0-494e-9b4d-17ddb932f4d7)
+
