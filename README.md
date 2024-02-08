@@ -1,4 +1,4 @@
-# nand2tetris
+# nand2tetris PROJECT 1
 ## working of NOT 
 ![not](https://github.com/kuldeepit/nand2tetris/assets/72602801/5e72d6e2-afdf-4055-a745-1725aad25db2)
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/63393e5e-98da-42f5-917d-5ec0c7160705)
