@@ -39,3 +39,8 @@
 ## working of INC 16
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/993f6a61-af69-4deb-993f-96f3d95232ad)
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/2ae62487-8e9b-43ae-a741-6a10776f00a1)
+
+## working of ALU
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/52506ace-7aef-4483-8154-5845e0083571)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/670d0e5e-009b-41b5-afec-1cf9eb375937)
+
