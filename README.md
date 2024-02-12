@@ -44,3 +44,36 @@
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/52506ace-7aef-4483-8154-5845e0083571)
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/670d0e5e-009b-41b5-afec-1cf9eb375937)
 
+# nand2tetris PROJECT 3
+## working of BIT CIRCUIT
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/2446f274-a92a-42e5-abdc-28eaf0fbc3ad)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/95a748da-c644-4b10-b757-4d6a770a735e)
+
+## working of REGISTER
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/1810171b-748f-4db2-a3bf-85691ef42cf2)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/d4e581d6-5401-481e-b068-9a1cdb248a50)
+
+## working of RAM8
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/57a0389e-a83c-4b4c-a824-d527aa35bdb0)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/8c412b9f-66b3-4671-9761-7a3b9e56bd3a)
+
+## working of RAM64
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/bdfd5adc-9914-4304-9ecb-96131d39659f)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/a463e7bb-7874-4eb5-a64c-10d1ac68d2c5)
+
+## working of RAM512
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/9886bafb-7834-42ff-85e9-b4be54c337f2)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/a1b84c21-8a3f-4b41-9e57-6ff536378d39)
+
+## working of RAM4K
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/a4c53f38-df64-4a58-a5ea-8edd3c3ebeee)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/d53045a3-d5a1-4cdd-8275-eef470ef3ad1)
+
+## working of RAM16K
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/51223b35-0bb9-4e4c-a667-e1e8d38c79c6)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/01427cdc-a7ba-4b2d-b7c4-de91eb913525)
+
+## working of PC
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/a129e265-bad4-40a2-a816-fd45fa796580)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/d28cb608-53d0-43d4-9907-4a9179cf8780)
+
