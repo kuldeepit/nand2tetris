@@ -81,3 +81,12 @@
 ## MEMORY IMPLEMENTATION
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/6b466e1c-2311-4b45-8257-3c9dfa0fcb50)
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/3f0b6b18-190a-4255-970b-4c396802df02)
+
+## CPU IMPLEMENTATION
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/e74aa138-37ad-40ac-9869-79536db54630)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/63614ccc-67a5-42d4-aa96-7d6ec76acbcf)
+
+## COMPUTER IMPLEMENTATION
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/862c08bb-1934-42d4-bc30-ead5474cec96)
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/926022ac-3b1f-4fb8-9f95-fb83bc103d18)
+
