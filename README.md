@@ -90,3 +90,7 @@
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/862c08bb-1934-42d4-bc30-ead5474cec96)
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/926022ac-3b1f-4fb8-9f95-fb83bc103d18)
 
+# Drawing a Rectangle
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/8406bea1-e9b1-4e33-ae63-b8bcc98d0f2d)
+
+
