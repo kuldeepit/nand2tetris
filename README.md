@@ -93,4 +93,7 @@
 # Drawing a Rectangle
 ![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/8406bea1-e9b1-4e33-ae63-b8bcc98d0f2d)
 
+# nand2tetris PROJECT 6
+## PING PONG GAME
+![image](https://github.com/kuldeepit/nand2tetris/assets/72602801/d27b0486-9df3-4bdc-9075-ca044f3f97d7)
 
